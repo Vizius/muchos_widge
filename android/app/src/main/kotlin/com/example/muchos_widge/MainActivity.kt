@@ -1,0 +1,6 @@
+package com.example.muchos_widge
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
